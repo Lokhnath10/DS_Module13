@@ -19,7 +19,7 @@ To write a C function to evaluate the given prefix expression using stack and pr
 /*
 Program to evaluate the given prefix expression
 Developed by: Lokhnath J.
-RegisterNumber: 212223230010
+RegisterNumber: 212223240079
 
 #include<stdio.h> 
 #include<string.h> 
